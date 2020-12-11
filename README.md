@@ -105,7 +105,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)
 - [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd/train/javascript)
 - [Ghost code?!](https://www.codewars.com/kata/570184a95594a091150000a0/train/java)
-- []()
+- [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)
 - []()
 - []()
 - []()
