@@ -101,7 +101,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [Hex to Decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d/train/javascript)
 - [Playing with cubes I](https://www.codewars.com/kata/55c0a79e20be94c91400014b/train/csharp)
 - [Convert to Binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/train/javascript
-- []()
+- [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
 - []()
 - []()
 - []()
