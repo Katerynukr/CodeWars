@@ -98,7 +98,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [5 without numbers !!](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)
 
 ## List of my solved tasks Java 
-- []()
+- [Hex to Decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d/train/javascript)
 - []()
 - []()
 - []()
