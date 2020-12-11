@@ -110,7 +110,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
 - [L1: Set Alarm!](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/javascript)
 - [Square(n) sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
-- []()
+- [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/java)
 - []()
 - []()
 - []()
