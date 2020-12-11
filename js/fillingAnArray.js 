@@ -1,0 +1,6 @@
+const arr = N => {
+  let arrayOf = [];
+  for (let i = 0; i < N; i++){
+     arrayOf.push(0+i);
+  } return arrayOf;
+}
