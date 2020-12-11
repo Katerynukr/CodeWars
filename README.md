@@ -111,9 +111,9 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [L1: Set Alarm!](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/javascript)
 - [Square(n) sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
 - [A wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/java)
+- [Beginner Series #2 Clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a/train/java)
+- [You Can't Code Under Pressure #1](https://www.codewars.com/kata/53ee5429ba190077850011d4/train/java)
 - []()
-- []()
-- []()
-- []()
+
 
 
