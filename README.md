@@ -108,7 +108,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [Calculate BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)
 - [Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/train/javascript)
 - [Array plus array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
-- []()
+- [L1: Set Alarm!](https://www.codewars.com/kata/568dcc3c7f12767a62000038/train/javascript)
 - []()
 - []()
 - []()
