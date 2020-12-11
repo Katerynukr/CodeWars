@@ -5,7 +5,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 
 ##List of my solved tasks
 
-###JavaScript
+__JavaScript__
 -
 -
 -
