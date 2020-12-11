@@ -96,6 +96,8 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/javascript)
 - [Sum of differences in array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/train/javascript)
 - [5 without numbers !!](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)
+
+## List of my solved tasks Java 
 - []()
 - []()
 - []()
