@@ -3,7 +3,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 
 **Find more information on a [Codewars page](https://www.codewars.com/dashboard).**
 
-##List of my solved tasks JavaScript
+## List of my solved tasks JavaScript
 - [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004)
 - [You only need one - Beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/javascript)
 - [Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
@@ -84,18 +84,20 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [No Loops 2 - You only need one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/train/javascript)
 - [What's the real floor?](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript)
 - [Grasshopper - Check for factor](https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/javascript)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
+- [The Wide-Mouthed frog!](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)
+- [Enumerable Magic #25 - Take the First N Elements](https://www.codewars.com/kata/545afd0761aa4c3055001386/train/javascript)
+- [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
+- [Well of Ideas - Easy Version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
+- [Alan Partridge II - Apple Turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d/train/javascript)
+- [The 'if' function](https://www.codewars.com/kata/54147087d5c2ebe4f1000805/train/javascript)
+- [Sum The Strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)
+- [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96/train/javascript)
+- [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145/train/javascript)
+- [Sum of differences in array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/train/javascript)
+- [5 without numbers !!](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)
+
+## List of my solved tasks Java 
 - []()
 - []()
 - []()
