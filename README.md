@@ -103,7 +103,7 @@ Codewars is a web site where it is a possible to practice and write a code by so
 - [Convert to Binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/train/javascript)
 - [Convert a String to a Number!](https://www.codewars.com/kata/544675c6f971f7399a000e79/train/javascript)
 - [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/javascript)
-- []()
+- [Tidy Number (Special Numbers Series #9)](https://www.codewars.com/kata/5a87449ab1710171300000fd/train/javascript)
 - []()
 - []()
 - []()
